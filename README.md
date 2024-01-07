@@ -1,4 +1,4 @@
-# Simple Portfolio
+# Portfolio
 
 This is a straightforward and customizable portfolio template created with HTML, CSS, and JavaScript.
 
@@ -11,12 +11,12 @@ This is a straightforward and customizable portfolio template created with HTML,
 ## Usage
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/simple-portfolio.git
+    git clone https://github.com/arpitajana1220/portfolio.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd simple-portfolio
+    cd portfolio
     ```
 
 3. Open `index.html` in your preferred web browser to view and customize the portfolio.
