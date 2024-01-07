@@ -27,12 +27,12 @@ This is a straightforward and customizable portfolio template created with HTML,
 - Customize the interactive project cards in the `script.js` file.
 
 ## Preview
-[Live Demo]((https://arpitajana1220.github.io/Portfolio/))
+[Live Demo](https://arpitajana1220.github.io/Portfolio/)
 
 ## Credits
 - This portfolio template was created by Arpita Jana.
 - Inspired by various portfolio designs on the web.
 
-Feel free to use, modify, and share this portfolio template. If you have any questions or suggestions, please [contact me](arpitajana2000@gmail.com).
+Feel free to use, modify, and share this portfolio template.
 
 Happy coding! 🚀
